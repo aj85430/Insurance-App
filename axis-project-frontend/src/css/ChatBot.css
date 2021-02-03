@@ -1,0 +1,23 @@
+.bot {
+  bottom: 40px;
+  right: 0;
+  position: fixed;
+  z-index: 100;
+  width: 350px;
+}
+
+.btn_chatbot {
+  font-size: 20px;
+  /* float: right; */
+  position: fixed;
+  bottom : 3px;
+  right : 10px;
+}
+
+#btn1,
+#btn2 {
+  font-size: 20px;
+  width: 350px;
+  padding: 4px;
+  background-color: #ae275f;
+}
